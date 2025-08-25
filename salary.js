@@ -22,7 +22,7 @@ console.log();
 console.log("Employee's Name " +Ename);
 console.log("Employee's Basic Salary " +Bsalary);
 console.log("Employee's HRA " +hra);
-console.log("Employee's  Dearness allowance" +da);
+console.log("Employee's  Dearness allowance " +da);
 console.log("Employee's Medical Allowance " +ma);
 console.log("Employee's Provident Fund " +pf);
 console.log("Employee's Tax Deductiona at Source " +tds);
